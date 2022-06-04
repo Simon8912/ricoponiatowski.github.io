@@ -14,3 +14,7 @@ Zaczne od kluczy SSH. Przechowywane sa  domyslne w tym mijescu , gdzie prowadzi 
 ```bash
 sudo apt update && sudo apt dist-upgrade -y
 ```
+
+```bash
+flatapk update
+```
